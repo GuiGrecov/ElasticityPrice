@@ -1,1 +1,1 @@
-# Elaasticidade de Preço
+# Elasticidade de Preço
