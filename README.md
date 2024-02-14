@@ -1,5 +1,9 @@
 # ELASTICIDADE DE PREÇO 
 
+
+![image](https://github.com/GuiGrecov/ElasticityPrice/assets/94385953/0d4d1e32-9766-4a7a-a02d-6e9c93b40835)
+
+
 ## PROBLEMA DE NEGÓCIO 
 Uma empresa pretende alterar os preços dos produtos vendidos, mas tem receio dessa alteração impactar na demanda desses produtos e por consequência no faturamento. Essa demanda foi submetida para você e como Cientista de dados precisa determinar a elasticidade dos preços usando a metodologia científica embasado nos dados dos preços dos produtos vendidos pela empresa.
 
