@@ -60,8 +60,15 @@ Aplicando os conceitos acimas de uma lista com mais de 25 produtos conseguimos s
 
 Vamos lucrar com o novo faturamente: R$ 121.304 quando comparamos o cenário antigo (sem desconto) com o cenário novo (com desconto). Isso acontece porque a adesão de vendas será superior no cenário com desconto.
 
+## 4. APLICAÇÃO COM O SIMULADOR DE DESCONTO 
 
+Link aqui: https://appelasticityofprice-mxq9ii2swpu4pryrc7mymw.streamlit.app/
 
+Eu fiz uma aplicação a qual você consegue visualizar os possíveis descontos em uma escala de 0% até 11%. 
+
+![image](https://github.com/GuiGrecov/ElasticityPrice/assets/94385953/6b650479-8f96-44f8-8cc1-2d37afe91219)
+
+Você também consegue explorar as métricas de ELASTICIDADE CRUZADA junto com as BUSSINES PERFORMANCE 
 
 
 
