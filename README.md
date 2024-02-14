@@ -32,7 +32,7 @@ Mês que aconteceu o maior número de vendas
 
 ![image](https://github.com/GuiGrecov/ElasticityPrice/assets/94385953/6437ac06-d078-444f-a067-4e06e5b041b2)
 
-Somente na BestBuy o mês mais forte de vendas foi Augusto isso mostra alguma presença de ums super promoção ou algo relacionado a queima de estoque. 
+Somente na BestBuy o mês mais forte de vendas foi Agosto isso mostra alguma presença de ums super promoção ou algo relacionado a queima de estoque. 
 
 ## 3. Business Performance 
 
